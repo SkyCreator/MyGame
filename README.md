@@ -1,2 +1,2 @@
-# MyTest1
+# MyGame
 this is my firt project!
